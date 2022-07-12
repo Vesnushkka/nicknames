@@ -6,4 +6,3 @@ export class Validator {
 }
 
 
-/^([^\d\-_])([a-zA-z-_])*([^\d\-_])$/.test(userName));
